@@ -3,7 +3,7 @@ Neuropsychiatric disorders
 
 Reviews
 =====================
-
+* [Autistic disturbances of affective contact](https://www.ncbi.nlm.nih.gov/pubmed/4880460) - Original autism cases seen at Hopkins by Leo Kanner (1943)
 * [Autism spectrum disorders—A genetics review](https://www.ncbi.nlm.nih.gov/pubmed/21358411) - review of autism genetics, clinically focused (2011)
 * [The Yin and Yang of Autism Genetics: How Rare De Novo and Common Variations Affect Liability](https://www.ncbi.nlm.nih.gov/pubmed/28426285) - review that considers how polygenic vs monogenic inheritance plays out in ASD (2017)
 *  [Psychiatric genetics and the structure of psychopathology](https://www.ncbi.nlm.nih.gov/pubmed/29317742) - great review from Jordan Smoller that outlines cross-disorder overlap and general structure of psychiatric disorders (2017)
