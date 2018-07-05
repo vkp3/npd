@@ -11,5 +11,5 @@ Reviews
 *  [Systems biology and gene networks in neurodevelopmental and neurodegenerative disorders](https://www.ncbi.nlm.nih.gov/pubmed/26149713) - (2015)
 *  [Pleiotropy in complex traits: challenges and strategies](https://www.ncbi.nlm.nih.gov/pubmed/23752797) - review of complex trait pleiotropy - what it is, how to id pleiotropic variants, and what it means for cross-phenotype overlap of NPD (2013)
 *  [Using genetic data to strengthen causal inference in observational research](https://www.ncbi.nlm.nih.gov/pubmed/29872216) - review of mendelian randomization and other related considerations from genetic epidemiology w.r.t. complex trait genetics, could be helpful for NPD analysis (2018)
-*  [Genetics and epigenetics of autism: A Review] (https://www.ncbi.nlm.nih.gov/pubmed/28941239) - (2018)
+*  [Genetics and epigenetics of autism: A Review](https://www.ncbi.nlm.nih.gov/pubmed/28941239) - (2018)
 *  [Progress in the genetics of autism spectrum disorder](https://www.ncbi.nlm.nih.gov/pubmed/29574884) - (2018)
